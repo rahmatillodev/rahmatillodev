@@ -1,1 +1,1 @@
-### Hi, I'm Umarov Rahmatillo <iframe src="https://giphy.com/embed/SwZBtqe4yvEWP7q07X" width="480" height="379" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+### Hi, I'm Umarov Rahmatillo <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47xgane8br5f7ezw1zegnqhsivb3caanklkc2oteq4&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
