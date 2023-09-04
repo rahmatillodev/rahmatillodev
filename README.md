@@ -6,4 +6,7 @@
 <br/>
 
 ### Languages and tools I work with:
-<code><img src="https://avatars.mds.yandex.net/i?id=99975f38cf020d64b5e484a02134d6773f654671-9701297-images-thumbs&n=13" width="40px" /></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=a24a945972f4dc64f7a4399c277f6be98f2c8f85-9229079-images-thumbs&n=13" width="40px" /></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=38963e15e334091cc843bbc6e0fef9d9051bc57c-8497235-images-thumbs&n=13" width="40px" /></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=011815a782b08e90fa49bc92c5906346bb0a7571-9847509-images-thumbs&n=13" width="40px" /></code>
+<code><img src="https://avatars.mds.yandex.net/i?id=19427e719f7eda357336338835749144a3035850-8907325-images-thumbs&n=13" width="40px" /></code>
