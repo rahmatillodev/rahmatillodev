@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/rahmatillodev/rahmatillodev/portfolio.gif)
+![logo](https://github.com/rahmatillodev/rahmatillodev/blob/main/portfolio.gif)
 
 <h1 align="center">Hi, I'm Umarov Rahmatillo <img style="width:50px" src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47xgane8br5f7ezw1zegnqhsivb3caanklkc2oteq4&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></h1>
 <h3 align="center">A passionate frontend developer and frontend mentor from Uzbekiston</h3>
