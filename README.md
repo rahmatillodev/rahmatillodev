@@ -1,9 +1,4 @@
-### 
 
-
-<a href="https://t.me/Rahmatillo1908"><img width="40px" src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" /></a>
-
-<br/>
 
 
 ![logo](https://github.com/rahmatillodev/rahmatillodev/portfolio.gif)
